@@ -39,26 +39,42 @@
 - Seaborn
 - Scikit-learn
 
-##  Featured Projects
-
-### 🚢 Titanic Survival Predictor
-Machine Learning project using Logistic Regression to predict Titanic passenger survival.
-
-🔗 [View Repository](https://github.com/bsb1910/Titanic-Survival-Predictor)
+# 📌 Projects
 
 ---
 
-###  CoreInventory
-Java-based Inventory Management System developed using OOP concepts.
+# 🚢 Titanic Survival Predictor
 
-🔗 [View Repository](https://github.com/bsb1910/CoreInventory)
+> Machine Learning project that predicts whether a passenger survived the Titanic disaster using Logistic Regression. Includes data preprocessing, visualization, confusion matrix generation, and survival analysis graphs.
+
+### 🛠 Stack:
+Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Machine Learning
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/Titanic-Survival-Predictor)
 
 ---
 
-###  Face Recognition Project
-Python project based on computer vision and face recognition concepts.
+# 📦 CoreInventory
 
-🔗 [View Repository](https://github.com/bsb1910/Face-Recognition-Project)
+> Java-based Inventory Management System developed using Object Oriented Programming concepts. Supports product management, inventory tracking, and efficient stock handling through a console-based system.
+
+### 🛠 Stack:
+Java • OOP • File Handling • Collections Framework • Console Application
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/CoreInventory)
+
+---
+
+# 😀 Face Recognition Project
+
+> Python-based face recognition system using computer vision concepts for detecting and identifying faces. Includes image processing and facial recognition functionalities.
+
+### 🛠 Stack:
+Python • OpenCV • Computer Vision • Face Recognition • NumPy
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/face_recognition_project)
+
+---
 
 ## 📈 Currently Learning
 

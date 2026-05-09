@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Bhagyesh Bhatt
 
-🎓 Diploma/B.Tech Student passionate about programming, machine learning, and software development.
+🎓 Diploma passout and B.Tech CSE branch Student passionate about programming, machine learning, ai engineering and software development.
 
 ## 🚀 Skills
 

@@ -43,7 +43,7 @@
 
 ---
 
-# 🚢 Titanic Survival Predictor
+#  Titanic Survival Predictor
 
 > Machine Learning project that predicts whether a passenger survived the Titanic disaster using Logistic Regression. Includes data preprocessing, visualization, confusion matrix generation, and survival analysis graphs.
 
@@ -54,7 +54,7 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Mach
 
 ---
 
-# 📦 CoreInventory
+#  CoreInventory
 
 > Java-based Inventory Management System developed using Object Oriented Programming concepts. Supports product management, inventory tracking, and efficient stock handling through a console-based system.
 
@@ -65,7 +65,7 @@ Java • OOP • File Handling • Collections Framework • Console Application
 
 ---
 
-# 😀 Face Recognition Project
+#  Face Recognition Project
 
 > Python-based face recognition system using computer vision concepts for detecting and identifying faces. Includes image processing and facial recognition functionalities.
 
@@ -83,7 +83,7 @@ Python • OpenCV • Computer Vision • Face Recognition • NumPy
 - Machine Learning
 - Software Development
 
-##  Goals
+## 📌 Goals
 
 - Become a skilled software developer
 - Build real-world projects

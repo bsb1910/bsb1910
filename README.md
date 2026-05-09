@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Bhagyesh Bhatt
+# Hi there I'm Bhagyesh Bhatt
 
-🎓 Diploma passout and B.Tech CSE branch Student passionate about programming, machine learning, ai engineering and software development.
+ Diploma passout and B.Tech CSE branch Student passionate about programming, machine learning, ai engineering and software development.
 
-## 🚀 Skills
+##  Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,16 +39,26 @@
 - Seaborn
 - Scikit-learn
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🚢 Titanic Survival Predictor
-Machine Learning project using Logistic Regression to predict passenger survival on the Titanic dataset.
+Machine Learning project using Logistic Regression to predict Titanic passenger survival.
 
-### 📦 CoreInventory
+🔗 [View Repository](https://github.com/bsb1910/Titanic-Survival-Predictor)
+
+---
+
+###  CoreInventory
 Java-based Inventory Management System developed using OOP concepts.
 
-### 😀 Face Recognition Project
+🔗 [View Repository](https://github.com/bsb1910/CoreInventory)
+
+---
+
+###  Face Recognition Project
 Python project based on computer vision and face recognition concepts.
+
+🔗 [View Repository](https://github.com/bsb1910/Face-Recognition-Project)
 
 ## 📈 Currently Learning
 
@@ -57,7 +67,7 @@ Python project based on computer vision and face recognition concepts.
 - Machine Learning
 - Software Development
 
-## 🌟 Goals
+##  Goals
 
 - Become a skilled software developer
 - Build real-world projects
@@ -66,4 +76,4 @@ Python project based on computer vision and face recognition concepts.
 
 ---
 
-⭐ Check out my repositories and projects!
+ Check out my repositories and projects!

@@ -57,7 +57,7 @@ My interests include:
 
 ## Featured Projects
 
-# 🤖 AI-Powered Expense Tracker with Smart Financial Assistant
+#  AI-Powered Expense Tracker with Smart Financial Assistant
 
 > A modern full-stack MERN application that combines expense management, financial analytics, and AI-powered financial insights into a single platform. Features intelligent spending analysis, category management, dashboards, and a conversational AI assistant powered by OpenRouter.
 
@@ -75,7 +75,23 @@ My interests include:
 
 ---
 
-# 🧠 AI Engineering Internship Repository
+#  Face Recognition Project
+
+> Python-based face recognition system using computer vision concepts for detecting and identifying faces. Includes image processing and facial recognition functionalities.
+
+###  Stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
+![Face Recognition](https://img.shields.io/badge/Face_Recognition-AI-red?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/bsb1910/face_recognition_project)
+
+---
+
+#  AI Engineering Internship Repository
 
 > Collection of concepts, implementations, notes, and hands-on exercises completed during my AI Engineering Internship. Covers modern AI engineering workflows and practical LLM development.
 
@@ -93,11 +109,11 @@ My interests include:
 
 ---
 
-# 🚢 Titanic Survival Predictor
+#  Titanic Survival Predictor
 
 > Machine Learning project that predicts whether a passenger survived the Titanic disaster using Logistic Regression. Includes data preprocessing, visualization, confusion matrix generation, and survival analysis graphs.
 
-### 🛠 Stack:
+###  Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -111,7 +127,7 @@ My interests include:
 
 ---
 
-# 📦 CoreInventory
+#  CoreInventory
 
 > Java-based Inventory Management System developed using Object Oriented Programming concepts. Supports product management, inventory tracking, and efficient stock handling through a console-based system.
 
@@ -126,22 +142,6 @@ My interests include:
 
 ---
 
-# 👤 Face Recognition Project
-
-> Python-based face recognition system using computer vision concepts for detecting and identifying faces. Includes image processing and facial recognition functionalities.
-
-### 🛠 Stack:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
-![Face Recognition](https://img.shields.io/badge/Face_Recognition-AI-red?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/bsb1910/face_recognition_project)
-
-
----
 
 ## Experience
 

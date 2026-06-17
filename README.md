@@ -41,6 +41,7 @@ My interests include:
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-Cloud_Database-47A248?style=for-the-badge)
 
 ### AI & Data
 
@@ -67,6 +68,7 @@ My interests include:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-Cloud_Database-47A248?style=for-the-badge)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM_API-blue?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-Backend-purple?style=for-the-badge)

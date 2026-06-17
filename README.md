@@ -67,11 +67,13 @@ My interests include:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-Cloud_Database-47A248?style=for-the-badge)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM_API-blue?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-Backend-purple?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/bsb1910/expense-tracker-ai)
 
@@ -147,18 +149,20 @@ My interests include:
 
 ## Experience
 
-### AI Engineering Intern
+### AI Engineering Intern | June 2026
 
-Worked on practical AI Engineering concepts and product development including:
+Worked on AI-powered application development and modern software engineering workflows.
 
-* LLM Integration
-* Prompt Engineering
-* OpenRouter APIs
-* AI Assistants
-* MERN Stack Development
-* MongoDB Atlas
-* Backend API Development
+Key Contributions:
 
+- Developed a production-ready AI Expense Tracker using MERN Stack
+- Integrated OpenRouter LLM APIs
+- Implemented AI Guardrails and Prompt Engineering
+- Built analytics dashboards using React
+- Designed REST APIs with Express.js
+- Worked with MongoDB Atlas
+- Explored Embeddings, ChromaDB, LangChain, and RAG concepts
+  
 ---
 
 ## Currently Learning

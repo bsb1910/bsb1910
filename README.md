@@ -1,499 +1,118 @@
-# AI-Powered Expense Tracker with Smart Financial Assistant
+# Hi there I'm Bhagyesh Bhatt
 
-A production-ready full-stack MERN application that combines expense management, financial analytics, and AI-powered financial insights into a single platform.
+ Diploma passout and B.Tech CSE branch Student passionate about programming, machine learning, ai engineering and software development.
 
-SmartExpense helps users track expenses, analyze spending habits, visualize financial trends, and receive personalized recommendations from an AI-powered financial assistant.
+##  Skills
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=googlebard&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-# Live Demo
+- Python Programming
+- Java Programming
+- Object Oriented Programming (OOP)
+- Machine Learning Basics
+- Data Analysis & Visualization
+- Git & GitHub
+- Problem Solving
+- Data Structures & Algorithms (DSA)
 
-### Frontend (Vercel)
+## 🛠 Technologies I Use
 
-https://YOUR-VERCEL-URL.vercel.app
+- Python
+- Java
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-### Backend API (Render)
-
-https://expense-tracker-ai-2kwz.onrender.com
-
-### Database
-
-MongoDB Atlas (Cloud Hosted)
-
-### AI Model
-
-DeepSeek V3 via OpenRouter
-
----
-
-# Project Highlights
-
-* Full-Stack MERN Application
-* AI-Powered Financial Assistant
-* DeepSeek V3 Integration via OpenRouter
-* MongoDB Atlas Cloud Database
-* Cloud Deployment using Vercel & Render
-* Expense Analytics Dashboard
-* Interactive Pie & Bar Charts
-* Category-Based Budget Tracking
-* Persistent AI Chat History
-* Dark Mode Support
-* Responsive SaaS-Style UI
-* RESTful API Architecture
-* Financial Reports & Recommendations
-* Environment-Based Configuration
-* Automated GitHub Deployment Workflow
-
----
-
-# Key Achievements
-
-* Developed and deployed a full-stack MERN application.
-* Integrated DeepSeek V3 AI through OpenRouter.
-* Built 10+ REST APIs using Express.js.
-* Connected MongoDB Atlas cloud database.
-* Designed interactive financial analytics dashboards.
-* Implemented AI-powered expense analysis and recommendations.
-* Deployed frontend on Vercel and backend on Render.
-* Configured secure environment variables for production.
-* Achieved successful cloud deployment architecture.
+# 📌 Projects
 
 ---
 
-# Application Preview
+#  Titanic Survival Predictor
 
-| Dashboard                                | Analytics                                |
-| ---------------------------------------- | ---------------------------------------- |
-| ![](./project-screenshots/dashboard.png) | ![](./project-screenshots/analytics.png) |
+> Machine Learning project that predicts whether a passenger survived the Titanic disaster using Logistic Regression. Includes data preprocessing, visualization, confusion matrix generation, and survival analysis graphs.
 
-| Categories                                | Expense Ledger                                |
-| ----------------------------------------- | --------------------------------------------- |
-| ![](./project-screenshots/categories.png) | ![](./project-screenshots/expense-ledger.png) |
+### 🛠 Stack:
 
-| AI Assistant                                     | AI Insights                                          |
-| ------------------------------------------------ | ---------------------------------------------------- |
-| ![](./project-screenshots/ai-assistant-home.png) | ![](./project-screenshots/ai-assistant-insights.png) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
----
-
-# System Architecture
-
-```text
-┌──────────────────────────────────────────────┐
-│             Vercel Frontend                  │
-│       React + Vite + Ant Design UI           │
-└──────────────────────┬───────────────────────┘
-                       │
-                       │ HTTPS API Requests
-                       ▼
-┌──────────────────────────────────────────────┐
-│             Render Backend                   │
-│          Node.js + Express APIs              │
-└───────────────┬───────────────────┬──────────┘
-                │                   │
-                ▼                   ▼
-
-        MongoDB Atlas       OpenRouter + DeepSeek V3
-
-        Expense Data        Financial Analysis Engine
-        Analytics Data      AI Recommendations
-```
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/Titanic-Survival-Predictor)
 
 ---
 
-# Application Screenshots
+#  CoreInventory
 
-## Dashboard – Financial Overview
+> Java-based Inventory Management System developed using Object Oriented Programming concepts. Supports product management, inventory tracking, and efficient stock handling through a console-based system.
 
-![Dashboard](./project-screenshots/dashboard.png)
+### 🛠 Stack:
 
-Provides a centralized overview of spending metrics, active categories, recent transactions, KPI cards, and quick actions.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Collections-Framework-green?style=for-the-badge)
+![File Handling](https://img.shields.io/badge/File%20Handling-Java-orange?style=for-the-badge)
 
----
-
-## Expense Ledger Management
-
-![Expense Ledger](./project-screenshots/expense-ledger.png)
-
-Manage financial transactions with search, filtering, editing, deletion, and category-based organization.
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/CoreInventory)
 
 ---
 
-## Category Management System
+#  Face Recognition Project
 
-![Categories](./project-screenshots/categories.png)
+> Python-based face recognition system using computer vision concepts for detecting and identifying faces. Includes image processing and facial recognition functionalities.
 
-Track category-wise spending and monitor budget distribution percentages.
+### 🛠 Stack:
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge)
+![Face Recognition](https://img.shields.io/badge/Face%20Recognition-AI-red?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## Spending Analytics Dashboard
-
-![Analytics](./project-screenshots/analytics.png)
-
-Interactive analytics powered by Recharts, including category comparisons, spending trends, KPI cards, and visual insights.
-
----
-
-## AI Assistant Welcome Interface
-
-![AI Assistant Home](./project-screenshots/ai-assistant-home.png)
-
-ChatGPT-style financial assistant with predefined financial analysis prompts.
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/face_recognition_project)
 
 ---
 
-## AI Assistant Interactive Conversation
+---
 
-![AI Assistant Chat](./project-screenshots/ai-assistant-chat.png)
+## 📈 Currently Learning
 
-Expense-aware conversational AI capable of answering questions using real transaction data.
+- Advanced Python
+- DSA in C++
+- Machine Learning
+- Software Development
+
+## 📌 Goals
+
+- Become a skilled software developer
+- Build real-world projects
+- Contribute to open-source projects
+- Learn advanced AI & ML technologies
 
 ---
 
-## AI Generated Financial Summary
-
-![AI Summary](./project-screenshots/ai-assistant-summary.png)
-
-Automatically generated spending reports and category breakdowns.
-
----
-
-## AI Insights & Recommendations
-
-![AI Insights](./project-screenshots/ai-assistant-insights.png)
-
-AI-powered savings recommendations, financial health analysis, budgeting suggestions, and expense optimization strategies.
-
----
-
-# Features
-
-## Expense Management
-
-* Add Expenses
-* Edit Expenses
-* Delete Expenses
-* Search & Filter Expenses
-* Category-Based Organization
-* Form Validation
-* Pagination Support
-
-## Category Management
-
-* 20+ Expense Categories
-* Category Statistics
-* Category-Wise Tracking
-* Budget Distribution Monitoring
-* Category Icons & Themes
-
-## Analytics Dashboard
-
-* KPI Statistics Cards
-* Spending Overview
-* Category Analysis
-* Pie Charts
-* Bar Charts
-* Trend Visualization
-* Average Expense Analysis
-* Highest & Lowest Expense Tracking
-
-## AI Financial Assistant
-
-* DeepSeek V3 Integration
-* OpenRouter API Integration
-* Expense-Aware Responses
-* Spending Pattern Analysis
-* Savings Recommendations
-* Financial Health Reports
-* Monthly Expense Reports
-* Financial Health Scoring
-* Budget Suggestions
-* Personalized Financial Insights
-* Professional Financial Report Generation
-
-## User Experience
-
-* Modern SaaS UI
-* Dark Mode Support
-* Theme Persistence
-* Responsive Design
-* Indian Currency Formatting (₹)
-* Persistent Chat History
-* Interactive Visualizations
-
----
-
-# Technology Stack
-
-## Frontend
-
-* React
-* Vite
-* Ant Design
-* Axios
-* React Router
-* Recharts
-* Marked
-
-## Backend
-
-* Node.js
-* Express.js
-* MongoDB Atlas
-* Mongoose
-
-## AI & Analytics
-
-* DeepSeek V3
-* OpenRouter API
-* Prompt Engineering
-* Financial Analytics Engine
-* Expense Context Injection
-
-## Cloud & DevOps
-
-* Vercel
-* Render
-* MongoDB Atlas
-* GitHub
-* Environment Variables
-
-## Development Tools
-
-* VS Code
-* Git
-* GitHub
-* Postman
-
----
-
-# Deployment
-
-## Frontend
-
-* Hosted on Vercel
-* Automatic deployments from GitHub
-* Production environment variable configuration
-
-## Backend
-
-* Hosted on Render
-* Automatic deployments from GitHub
-* Secure API key management
-
-## Database
-
-* MongoDB Atlas Cloud Database
-
-## AI Infrastructure
-
-* OpenRouter API
-* DeepSeek V3 Model
-* Expense Context Injection
-* Financial Analyst Prompt Engineering
-
----
-
-# Backend APIs
-
-## Expense APIs
-
-```http
-POST   /api/expenses
-GET    /api/expenses
-PUT    /api/expenses/:id
-DELETE /api/expenses/:id
-```
-
-## Analytics APIs
-
-```http
-GET /api/expenses/stats
-GET /api/expenses/category-summary
-```
-
-## AI APIs
-
-```http
-POST /api/assistant/chat
-```
-
-## Monitoring
-
-```http
-GET /api/health
-```
-
----
-
-# Resume-Worthy Features
-
-## Software Engineering
-
-* Developed a full-stack MERN application.
-* Built scalable REST APIs using Express.js.
-* Integrated MongoDB Atlas cloud database.
-* Applied modular backend architecture.
-* Implemented reusable React components.
-
-## Artificial Intelligence
-
-* Integrated DeepSeek V3 via OpenRouter.
-* Built an expense-aware financial assistant.
-* Engineered prompts for contextual financial analysis.
-* Generated personalized financial reports and recommendations.
-
-## Data Analytics
-
-* Developed financial KPI dashboards.
-* Implemented category-wise analytics pipelines.
-* Created interactive data visualizations.
-* Generated spending trend reports and insights.
-
-## Cloud & DevOps
-
-* Deployed frontend using Vercel.
-* Deployed backend using Render.
-* Configured MongoDB Atlas cloud database.
-* Managed production environment variables.
-* Built cloud-hosted full-stack architecture.
-
-## UI/UX Engineering
-
-* Designed a modern SaaS-inspired interface.
-* Implemented Dark Mode and theme persistence.
-* Built responsive layouts for multiple screen sizes.
-* Created a ChatGPT-style AI assistant experience.
-
----
-
-# Project Metrics
-
-## Backend
-
-* 10+ REST APIs
-* MongoDB Atlas Integration
-* Analytics Engine
-* AI Service Layer
-
-## Frontend
-
-* 5 Major Application Pages
-* 20+ Reusable Components
-* Responsive UI Design
-* Theme Persistence System
-
-## AI Features
-
-* Financial Summary Generation
-* Category Analysis
-* Savings Recommendations
-* Financial Health Reports
-* Conversational Financial Assistant
-
----
-
-# Project Structure
-
-```text
-expense-tracker-ai
-│
-├── backend
-│   ├── config
-│   ├── controllers
-│   ├── middleware
-│   ├── models
-│   ├── routes
-│   ├── utils
-│   ├── server.js
-│   └── package.json
-│
-├── frontend
-│   ├── public
-│   ├── src
-│   │   ├── components
-│   │   ├── pages
-│   │   ├── services
-│   │   ├── utils
-│   │   ├── App.jsx
-│   │   └── index.css
-│   │
-│   └── package.json
-│
-├── project-screenshots
-│
-├── README.md
-└── .gitignore
-```
-
----
-
-# Installation & Setup
-
-## Clone Repository
-
-```bash
-git clone https://github.com/bsb1910/expense-tracker-ai.git
-```
-
-## Backend Setup
-
-```bash
-cd backend
-npm install
-npm start
-```
-
-## Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-# Environment Variables
-
-Create a `.env` file inside the backend directory.
-
-```env
-PORT=5000
-
-MONGO_URI=YOUR_MONGODB_ATLAS_CONNECTION_STRING
-
-OPENROUTER_API_KEY=YOUR_OPENROUTER_API_KEY
-
-OPENROUTER_MODEL=deepseek/deepseek-chat-v3-0324
-```
-
----
-
-# Future Enhancements
-
-* User Authentication & Authorization
-* JWT Security
-* Multi-User Expense Isolation
-* Persistent AI Conversation History
-* PDF Financial Report Generation
-* Expense Forecasting using AI
-* Budget Planning Assistant
-* RAG-Based Financial Knowledge Base
-* Docker Containerization
-* CI/CD Pipeline Enhancements
-
----
-
-# Author
-
-**Bhagyesh Bhatt**
-
-B.Tech Computer Science Engineering
-
-GitHub: https://github.com/bsb1910
-
-Project: AI-Powered Expense Tracker with Smart Financial Assistant
-
-2025–2026
+ Check out my repositories and projects!

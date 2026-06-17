@@ -61,7 +61,7 @@ My interests include:
 
 > A modern full-stack MERN application that combines expense management, financial analytics, and AI-powered financial insights into a single platform. Features intelligent spending analysis, category management, dashboards, and a conversational AI assistant powered by OpenRouter.
 
-### 🛠 Stack:
+###  Stack:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)

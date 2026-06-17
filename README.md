@@ -1,87 +1,124 @@
-# Hi there I'm Bhagyesh Bhatt
+# Hi, I'm Bhagyesh Bhatt
 
- Diploma passout and B.Tech CSE branch Student passionate about programming, machine learning, ai engineering and software development.
+### AI Engineer • Full Stack Developer • B.Tech CSE Student
 
-##  Skills
+Passionate about building intelligent software products that combine modern web technologies with Artificial Intelligence.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=googlebard&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+Currently pursuing a **B.Tech in Computer Science & Engineering** after completing a **Diploma in Computer Engineering**.
+
+My interests include:
+
+* Artificial Intelligence
+* Full Stack Development
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Software Engineering
+* Backend Development
+* Product Development
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+### AI & Data
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM_APIs-blue?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-AI_Framework-green?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-- Python Programming
-- Java Programming
-- Object Oriented Programming (OOP)
-- Machine Learning Basics
-- Data Analysis & Visualization
-- Git & GitHub
-- Problem Solving
-- Data Structures & Algorithms (DSA)
-
-## 🛠 Technologies I Use
-
-- Python
-- Java
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
-# 📌 Projects
-
----
-
-#  Titanic Survival Predictor
-
-> Machine Learning project that predicts whether a passenger survived the Titanic disaster using Logistic Regression. Includes data preprocessing, visualization, confusion matrix generation, and survival analysis graphs.
-
-### 🛠 Stack:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/Titanic-Survival-Predictor)
 
 ---
 
-#  CoreInventory
+## Featured Projects
 
-> Java-based Inventory Management System developed using Object Oriented Programming concepts. Supports product management, inventory tracking, and efficient stock handling through a console-based system.
+### AI-Powered Expense Tracker with Smart Financial Assistant
 
-### 🛠 Stack:
+A modern MERN application that combines expense management, analytics dashboards, and AI-powered financial assistance.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge)
-![Collections](https://img.shields.io/badge/Collections-Framework-green?style=for-the-badge)
-![File Handling](https://img.shields.io/badge/File%20Handling-Java-orange?style=for-the-badge)
+**Highlights**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/CoreInventory)
+* Expense Tracking
+* Analytics Dashboard
+* AI Financial Assistant
+* OpenRouter Integration
+* MongoDB Atlas
+* Dark Mode UI
+* Category Insights
+
+**Tech Stack**
+
+React • Node.js • Express.js • MongoDB • OpenRouter
+
+Repository:
+https://github.com/bsb1910/expense-tracker-ai
 
 ---
 
-#  Face Recognition Project
+### AI Engineering Internship Repository
+
+Collection of concepts, exercises, and implementations completed during AI Engineering Internship.
+
+**Topics Covered**
+
+* Prompt Engineering
+* LLM APIs
+* AI Guardrails
+* Context Injection
+* Embeddings
+* ChromaDB
+* LangChain
+* RAG Fundamentals
+
+Repository:
+https://github.com/bsb1910/ai-internship
+
+---
+
+### Titanic Survival Predictor
+
+Machine Learning project predicting passenger survival using classification techniques.
+
+Repository:
+https://github.com/bsb1910/Titanic-Survival-Predictor
+
+---
+
+### CoreInventory
+
+Java-based Inventory Management System developed using Object Oriented Programming concepts.
+
+Repository:
+https://github.com/bsb1910/CoreInventory
+
+---
+
+### Face Recognition Project
 
 > Python-based face recognition system using computer vision concepts for detecting and identifying faces. Includes image processing and facial recognition functionalities.
 
@@ -93,26 +130,67 @@
 ![Face Recognition](https://img.shields.io/badge/Face%20Recognition-AI-red?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/bsb1910/face_recognition_project)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)]
+Repository:
+https://github.com/bsb1910/face_recognition_project
 
 ---
 
----
+## Experience
 
-## 📈 Currently Learning
+### AI Engineering Intern
 
-- Advanced Python
-- DSA in C++
-- Machine Learning
-- Software Development
+Worked on practical AI Engineering concepts and product development including:
 
-## 📌 Goals
-
-- Become a skilled software developer
-- Build real-world projects
-- Contribute to open-source projects
-- Learn advanced AI & ML technologies
+* LLM Integration
+* Prompt Engineering
+* OpenRouter APIs
+* AI Assistants
+* MERN Stack Development
+* MongoDB Atlas
+* Backend API Development
 
 ---
 
- Check out my repositories and projects!
+## Currently Learning
+
+* Advanced AI Engineering
+* LangChain
+* ChromaDB
+* RAG Systems
+* System Design
+* Cloud Fundamentals
+
+---
+
+## GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=bsb1910\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bsb1910\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsb1910\&layout=compact\&theme=tokyonight)
+
+---
+
+## Goals
+
+* Become an AI Engineer
+* Build Production-Grade Software
+* Contribute to Open Source
+* Develop Intelligent Applications
+* Learn Advanced Software Architecture
+
+---
+
+> Building intelligent software that combines strong engineering principles with practical AI solutions. Check out my repositories and projects!
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhagyesh_Bhatt-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/bsbhatt1910)
+
+[![GitHub](https://img.shields.io/badge/GitHub-bsb1910-181717?style=for-the-badge\&logo=github)](https://github.com/bsb1910)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bhagyeshbhatt1910@gmail.com)
